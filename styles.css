@@ -1,0 +1,20 @@
+h1 {
+	color: #2d4d44
+}
+
+h2{
+	color: #ffffff
+}
+
+a:link {
+	color: #2d4d44
+}
+
+a:visited {
+	color: #2d4d44
+}
+
+body {
+	background-color: #d8dfd7;
+	font-size: larger
+}
